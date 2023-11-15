@@ -1,3 +1,4 @@
-# GaIMUnityTemplate
-Standard template for Unity projects with some basic features (Unity gitignore, GitLFS, etc.)
-To use this template, click the "Use this template" button at the top of the page to create a new repository on GitHub.  Then you can clone, pull, or otherwise use the repository as needed. If you are starting a new project, I'd suggest cloning this repository to your computer in your desired location, then creating your new Unity project in that folder.
+Known Issues: During the tutorial work, I had issues getting the code for the Health Bar, throwing cog, and the Raycasting dialogue, as I kept getting "this does not exist" errors.
+
+Team members for the final Project: Daniel Krupczak, Ryan Horton.
+I am having extreme trouble getting in contact with my team members, I tried contacting them to gather together and work together on the project, with currently no response.
